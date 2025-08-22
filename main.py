@@ -19,3 +19,4 @@ def jours_restants_fin_annee():
         "jours_restants": difference.days,
         "mois_restants": difference.months
     }
+
